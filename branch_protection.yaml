@@ -1,0 +1,6 @@
+optConfig:
+  optOutStrategy: true
+  optOutArchivedRepos: true
+action: log
+dismissStale: false
+enforceOnAdmins: false

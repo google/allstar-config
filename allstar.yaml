@@ -1,0 +1,3 @@
+optConfig:
+  optOutStrategy: true
+issueFooter: Allstar has been installed on all Google managed GitHub orgs. Policies are gradually being rolled out and enforced by the GOSST and OSPO teams. Learn more at http://go/allstar
