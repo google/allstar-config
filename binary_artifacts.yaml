@@ -4,3 +4,5 @@ optConfig:
 action: issue
 ignoreFiles:
 - gradle-wrapper.jar
+- maven-wrapper.jar
+- sbt-launch.jar
