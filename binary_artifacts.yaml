@@ -1,6 +1,6 @@
 optConfig:
   optOutStrategy: true
   optOutArchivedRepos: true
-action: log
+action: issue
 ignoreFiles:
 - gradle-wrapper.jar
